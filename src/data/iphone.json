@@ -1,0 +1,496 @@
+{  
+  
+    "products": [
+      {
+        "name": "iPhone SE",
+        "price": "399.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-se.jpg"
+      },
+      {
+        "name": "iPhone 14",
+        "price": "799.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-14.jpg"
+      },
+      {
+        "name": "iPhone 14 Pro",
+        "price": "999.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-14-pro.jpg"
+      },
+      {
+        "name": "iPhone 14 Pro Max",
+        "price": "1099.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-14-pro-max.jpg"
+      },
+      {
+        "name": "iPhone 14 Plus",
+        "price": "899.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-14-plus.jpg"
+      },
+      {
+        "name": "iPhone 13 Pro",
+        "price": "999.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-13-pro.jpg"
+      },
+      {
+        "name": "iPhone 13 Pro Max",
+        "price": "1099.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-13-pro-max.jpg"
+      },
+      {
+        "name": "iPhone 13",
+        "price": "799.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-13.jpg"
+      },
+      {
+        "name": "iPhone 13 mini",
+        "price": "699.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-13-mini.jpg"
+      },
+      {
+        "name": "iPhone 12 Pro",
+        "price": "999.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-12-pro.jpg"
+      },
+      {
+        "name": "iPhone 12 Pro Max",
+        "price": "1099.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-12-pro-max.jpg"
+      },
+      {
+        "name": "iPhone 12",
+        "price": "799.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-12.jpg"
+      },
+      {
+        "name": "iPhone 12 mini",
+        "price": "699.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-12-mini.jpg"
+      },
+      {
+        "name": "iPhone 11 Pro",
+        "price": "999.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-11-pro.jpg"
+      },
+      {
+        "name": "iPhone 11 Pro Max",
+        "price": "1099.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-11-pro-max.jpg"
+      },
+      {
+        "name": "iPhone 11",
+        "price": "799.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-11.jpg"
+      },
+      {
+        "name": "iPhone XR",
+        "price": "599.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-xr.jpg"
+      },
+      {
+        "name": "iPhone XS",
+        "price": "999.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-xs.jpg"
+      },
+      {
+        "name": "iPhone XS Max",
+        "price": "1099.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-xs-max.jpg"
+      },
+      {
+        "name": "iPhone X",
+        "price": "999.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-x.jpg"
+      },
+      {
+        "name": "iPhone 8",
+        "price": "449.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-8.jpg"
+      },
+      {
+        "name": "iPhone 7",
+        "price": "449.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-7.jpg"
+      },
+      {
+        "name": "iPhone 7 Plus",
+        "price": "569.00",
+        "image": "https://images.apple.com/v/iphone/images/iphone-7-plus.jpg"
+      }
+    ],
+    
+
+"offer": [
+  {
+        "url": "https://in.event.mi.com/in/offer-with-mi",
+        "image": "https://i02.appmifile.com/31_operator_in/25/04/2021/37529e4f2964c9b26a671172950096ae.jpg?width=398&height=230"
+  },
+  {
+        "url": "https://in.event.mi.com/in/work-from-home-essentials",
+        "image": "https://i02.appmifile.com/884_operator_in/30/05/2021/1e91f02cd9aca02f7caf3c5ddadd2747.jpg?width=398&height=230"
+  },
+  {
+        "url": "https://xiaomi.giveindia.org/",
+        "image": "https://i02.appmifile.com/761_operator_in/27/04/2021/09489d6a77f96111372718a551d2799d.png?width=398&height=230"
+  }
+],
+
+   "starProduct": [
+            {
+                  "url": "https://www.mi.com/in/power-banks",
+                  "image": "https://i02.appmifile.com/427_operator_in/09/05/2021/4cedd9d52d3d66e09ee27dde3914efe1.jpg?width=612&height=612"
+            },
+            {
+                  "url": "",
+                  "image": ""
+            },
+            {
+                  "url": "https://www.flipkart.com/q/vivo-power-bank",
+                  "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/i/9/i/luxcell-wireless-mini-10k-10000mah-10000-por-2180-portronics-original-imagx2fmyeay8zzg.jpeg?q=70"
+            },
+            {
+                  "url": "https://www.mi.com/in/bands-fitness",
+                  "image": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-band/oppo-band-fashiion/4.png.thumb.webp"
+            }
+      ],
+      "hotAccessories": {
+            "music": [
+                  {
+                        "name": "Mi Neckband Bluetooth Earphones",
+                        "price": "₹ 1,599",
+                        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/A1C40BA8-574D-2FA0-62C0-3D7A2C964790.jpg"
+                  },
+                  {
+                        "name": "Mi Soundbar",
+                        "price": "₹ 3,499",
+                        "image": "https://assorted.downloads.oppo.com/static/archives/images/in/encow/encow31-kv.jpg"
+                  },
+                  {
+                        "name": "TWS 3E",
+                        "price": "₹ 1,599",
+                        "image": "https://www.vivo.com/en/products/tws-3e"
+                  },
+                  {
+                        "name": "Vivo Wierless Soprt Lite",
+                        "price": "₹ 1,799",
+                        "image": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1618367392178/1d9d5bd34933f86141c553ec98950252.png"
+                  },
+                  {
+                        "name": "Mi Dual Driver In-ear Earphones",
+                        "price": "₹ 799",
+                        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/E794F82C-8858-02F1-7C53-6FB0B4D0C4C6.jpg"
+                  }
+            ],
+        "smartDevice": [
+              {
+                    "name": "Mi Smart Band 4",
+                    "price": "₹ 2,099",
+                    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/0E0F0769-6A69-5820-C8F0-F2B956C65BFA.jpg"
+              },
+              {
+                    "name": "Mi Smart Water Purifier",
+                    "price": "₹ 12,999",
+                    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/BC643CF4-853C-24E4-1EEC-9D4FF614C86D.jpg"
+              },
+              {
+                    "name": "Mi Watch Revolve",
+                    "price": "₹ 9,999",
+                    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1601293021.06313819.png"
+              },
+              {
+                    "name": "Mi Smart Bedside Lamp 2",
+                    "price": "₹ 2,499",
+                    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/6A656178-B31B-39D1-AC43-9C7EC61C3D84.jpg"
+              },
+              {
+                    "name": "Mi Smart LED Desk Lamp 1S",
+                    "price": "₹ 2,499",
+                    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1574669860.58966823.jpg?width=420&height=420"
+              }
+        ],
+        "home": [
+              {
+                    "name": "Mi Air Purifier 3",
+                    "price": "₹ 10,999",
+                    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/70A72569-C7EA-BBD7-591E-DC93EC3CDF34.jpg"
+              },
+              {
+                    "name": "Mi Air Purifier 2C",
+                    "price": "₹ 6,999",
+                    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/7D8FAD13-1E44-9475-3555-949CBF3571AF.jpg"
+              },
+              {
+                    "name": "Mi Router 4C",
+                    "price": "₹ 999",
+                    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/FD13B2EB-1AD5-67EE-FF6B-C3E2A0270556.jpg"
+              },
+              {
+                    "name": "Mi Box 4K",
+                    "price": "₹ 3,499",
+                    "image": "https://i02.appmifile.com/919_updatepdf_in/15/05/2020/984e626e158fdeb7cc21aff04264773d.png"
+              },
+              {
+                    "name": "Mi LED Wi-Fi Smart Bulb",
+                    "price": "₹ 1,299",
+                    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/441FC065-EEE7-5A64-9CF9-608EF2F82F60.jpg"
+              }
+        ],
+        "lifeStyle": [
+              {
+                    "name": "Mi Travel Backpack",
+                    "price": "₹ 1,999",
+                    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1536381648.16353261.png?width=420&height=420"
+              },
+              {
+                    "name": "Mi Athleisure Shoes",
+                    "price": "₹ 1,699",
+                    "image": "https://i02.appmifile.com/363_operator_in/13/10/2020/c7bde508f128d7b1fd10a224d18a5333.png"
+              },
+              {
+                    "name": "Mi Beard Trimmer",
+                    "price": "₹ 1,399",
+                    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/CEEE67A3-3578-7048-887D-CFC3D90B5D17.jpg"
+              },
+              {
+                    "name": "Mi KN-95 Protective Mask (Pack of 5)",
+                    "price": "₹ 399",
+                    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1602500062.48215120.png?width=420&height=420"
+              },
+              {
+                    "name": "Mi Portable Electric Air Compressor",
+                    "price": "₹ 2,499",
+                    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1592479075.0368979.png?width=420&height=420"
+              },
+              {
+                    "name": "Mi T-shirts",
+                    "price": "₹ 399 onwards",
+                    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/0D320403-6180-D6D6-9F57-4EDF0FEB58C7.jpg"
+              }
+        ],
+        "mobileAccessories": [
+              {
+                    "name": "Cases & Covers",
+                    "price": "₹ 49 onwards",
+                    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1551164869.57618003.jpg"
+              },
+              {
+                    "name": "Charger & USB Gadgets",
+                    "price": "₹ 179 onwards",
+                    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/5A5AA9AC-41A3-7E86-5922-928B312919B0.jpg"
+              },
+              {
+                    "name": "Mi Wireless Power Bank 10000mAh",
+                    "price": "₹ 2,499",
+                    "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/3CBAACCE-D18A-B241-A4F8-54A4CCE194A5.jpg"
+              },
+              {
+                    "name": "10000mAh Mi Power Bank 3i",
+                    "price": "₹ 999",
+                    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1600434881.35114664.jpg?width=420&height=420"
+              },
+              {
+                    "name": "Redmi SonicBass Wireless Earphones",
+                    "price": "₹ 1,299",
+                    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1601900775.75794078.png?width=420&height=420"
+              }
+        ]
+  },
+  "hotAccessoriesCover": {
+        "music": "https://i01.appmifile.com/webfile/globalimg/in/cms/500BFA0B-CBEF-5DFF-79A9-E925F9F2FEE9.jpg",
+        "smartDevice": "https://i02.appmifile.com/953_operator_in/17/06/2021/e12dde416676486fed36d0503d5bd65a.jpg",
+        "home": "https://i02.appmifile.com/663_operator_in/20/01/2021/0f6ac3c219428b6decbe7fb03d479060.jpg",
+        "lifeStyle": "https://i02.appmifile.com/677_operator_in/25/01/2021/8163c3c89feb2c83c73b019d5fd50181.jpg",
+        "mobileAccessories": "https://i01.appmifile.com/webfile/globalimg/in/cms/801ED76B-614B-5959-E2C3-1EC8E14C0ABD.jpg"
+  },
+  "footer": {
+      "support": [
+            {
+                  "name": "Online Help",
+                  "url": "https://www.mi.com/in/service/help/#category_id=1&pagenum=1&channel=1"
+            },
+            {
+                  "name": "Customer Service",
+                  "url": "https://www.mi.com/in/service/online/"
+            },
+            {
+                  "name": "Shipping FAQ",
+                  "url": "https://www.mi.com/in/service/shipping/"
+            },
+            {
+                  "name": "Service Centres",
+                  "url": "https://www.mi.com/in/service/repair/"
+            },
+            {
+                  "name": "Warrenty",
+                  "url": "https://www.mi.com/in/service/warranty/"
+            },
+            {
+                  "name": "Mi Exchange",
+                  "url": "https://www.mi.com/in/miexchange/"
+            },
+            {
+                  "name": "Bulk Order",
+                  "url": "https://www.mi.com/in/bulkbuy/"
+            },
+            {
+                  "name": "User Guide",
+                  "url": "https://www.mi.com/in/service/userguide/"
+            },
+            {
+                  "name": "Laptop Drivers",
+                  "url": "https://www.mi.com/in/service/support/laptop-drivers.html"
+            },
+            {
+                  "name": "Mi Screen Protect",
+                  "url": "https://www.mi.com/in/service/miphoneprotection/#miscreenprotect"
+            },
+            {
+                  "name": "Mi Extended Warranty",
+                  "url": "https://www.mi.com/in/service/miextendedwarranty/"
+            }
+      ],
+      "shopAndLearn": [
+            {
+                  "name": "Mi 10i",
+                  "url": "https://www.mi.com/in/mi-10i/"
+            },
+            {
+                  "name": "Mi 10T Series",
+                  "url": "https://in.event.mi.com/in/mi-10t-series"
+            },
+            {
+                  "name": "Mi 11 Ultra",
+                  "url": "https://www.mi.com/in/mi-11-ultra/"
+            },
+            {
+                  "name": "Mi 11X",
+                  "url": "https://www.mi.com/in/mi-11x/"
+            },
+            {
+                  "name": "Mi 11X Pro",
+                  "url": "https://www.mi.com/in/mi-11x-pro/"
+            },
+            {
+                  "name": "Redmi 8",
+                  "url": "https://www.mi.com/in/redmi-8/"
+            },
+            {
+                  "name": "Redmi 9",
+                  "url": "https://www.mi.com/in/redmi-9/"
+            },
+            {
+                  "name": "Redmi 9 Prime",
+                  "url": "https://www.mi.com/in/redmi-9-prime/"
+            },
+            {
+                  "name": "Redmi 9i",
+                  "url": "https://www.mi.com/in/redmi-9i/"
+            },
+            {
+                  "name": "Redmi 9A",
+                  "url": "https://www.mi.com/in/redmi-9a/"
+            },
+            {
+                  "name": "Redmi Note 10",
+                  "url": "https://www.mi.com/in/redmi-note-10/"
+            },
+            {
+                  "name": "Redmi Note 10 Pro",
+                  "url": "https://www.mi.com/in/redmi-note-10-pro/"
+            },
+            {
+                  "name": "Redmi Note 10 Pro Max",
+                  "url": "https://www.mi.com/in/redmi-note-10-pro-max/"
+            },
+            {
+                  "name": "Redmi Note 9 Pro",
+                  "url": "https://www.mi.com/in/redmi-note-9-pro/"
+            },
+            {
+                  "name": "Redmi Note 9",
+                  "url": "https://www.mi.com/in/redmi-note-9/"
+            },
+            {
+                  "name": "Redmi Note 9 Pro Max",
+                  "url": "https://www.mi.com/in/redmi-note-9-pro-max/"
+            },
+            {
+                  "name": "TVs",
+                  "url": "https://www.mi.com/in/all-mi-tv"
+            },
+            {
+                  "name": "Laptops",
+                  "url": "https://www.mi.com/in/xiaomi-laptops"
+            }
+      ],
+      "retailStore": [
+            {
+                  "name": "Mi Home",
+                  "url": "https://www.mi.com/in/service/mihome/"
+            },
+            {
+                  "name": "Mi Authorised Stores",
+                  "url": "https://www.mi.com/in/service/authorized_stores/"
+            }
+      ],
+      "aboutUS": [
+            {
+                  "name": "Xioami",
+                  "url": "https://www.mi.com/in/about/"
+            },
+            {
+                  "name": "Mediakit",
+                  "url": "https://www.mi.com/in/mediakit/"
+            },
+            {
+                  "name": "Culture",
+                  "url": "https://www.mi.com/in/about/#culture"
+            },
+            {
+                  "name": "User Agreement",
+                  "url": "https://www.mi.com/in/about/agreement/"
+            },
+            {
+                  "name": "Privacy Policy",
+                  "url": "https://www.mi.com/in/about/privacy/"
+            },
+            {
+                  "name": "Declarations",
+                  "url": "https://www.mi.com/in/service/support/mideclare.html"
+            },
+            {
+                  "name": "Integrity & Compliance",
+                  "url": "https://integrity.mi.com/global"
+            },
+            {
+                  "name": "Smartphone Quality",
+                  "url": "https://www.mi.com/in/smartphone-quality/"
+            },
+            {
+                  "name": "TV Quality",
+                  "url": "https://www.mi.com/in/tv-quality/"
+            },
+            {
+                  "name": "Service Quality",
+                  "url": "https://www.mi.com/in/service-quality/"
+            },
+            {
+                  "name": "Environment",
+                  "url": "https://www.mi.com/in/service/support/ewastetakeback.html"
+            },
+            {
+                  "name": "Sitemap",
+                  "url": "https://www.mi.com/in/sitemap"
+            }
+      ],
+      "contactUs": [
+            {
+                  "name": "Email",
+                  "url": "https://in.event.mi.com/in/questionnaire/email_us"
+            },
+            {
+                  "name": "Careers",
+                  "url": "https://www.mi.com/in/about/#career"
+            }
+      ]
+}
+}

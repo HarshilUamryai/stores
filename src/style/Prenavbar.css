@@ -1,0 +1,41 @@
+.prenave{
+    background-color: whitesmoke;
+    display:grid;
+    grid-template-columns: 5fr 2fr;
+    color: white;
+}
+
+.prenave > div{
+    padding: 0 4vmax;
+    display: flex;
+    align-items: center;
+ }
+
+ .prenave > div >span{
+    color: rgba(180, 180, 180, 0.644);
+    font-size: 0.8vmax;
+    font-weight: 100;
+}
+
+.prenave > div svg{
+    fill: rgb(180, 180, 180);
+}
+
+.prenave > div svg:hover{
+    fill: rgb(255, 255, 255);
+}
+
+
+.prenave > div > a{
+
+    color: black;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300;
+    margin: 6px;
+    text-decoration: none;
+}
+
+.prenave > div > a:hover{
+    color: white;
+}
