@@ -1,0 +1,86 @@
+.HotAccessoriesMode{
+    display: flex;
+    justify-content: center;
+}
+
+.HotAccessoriesLink{
+    text-decoration: none;
+    color:black;
+    margin: 1vmax;
+    padding: 0.5vmax 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.HotAccessoriesLink:hover{
+    text-decoration: none;
+    color: red;
+    border-bottom: 1px solid orangered;
+} 
+
+/* src/style/Hot.css */
+
+/* Main container */
+.HotAccessories-container {
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Category Section */
+  .category-section {
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  
+  /* Cover Image */
+  .category-cover {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    margin: 0 auto 20px;
+    border-radius: 10px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Category Heading */
+  .category-heading {
+    font-size: 2em;
+    margin-bottom: 30px;
+    color: #333;
+  }
+  
+  /* Hotcards List */
+  .Hotcard-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .category-cover {
+      max-width: 100%;
+    }
+  
+    .category-heading {
+      font-size: 1.5em;
+    }
+  
+    .hotcards-list {
+      gap: 15px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .category-heading {
+      font-size: 1.2em;
+    }
+  
+    .hotcards-list {
+      gap: 10px;
+    }
+  }
+  
